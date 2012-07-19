@@ -1,4 +1,4 @@
-Repository name: jquery-ui_accordion_practice
+jquery-ui_accordion_practice
 ========================
 
 ## C++ Practice Programs
